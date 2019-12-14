@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="red">#F44336</color>
+    <color name="darkRed">#D32F2F</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deepPurple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="darkBlue">#1170bc</color>
+    <color name="blue">#2196F3</color>
+    <color name="lightBlue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="green">#4CAF50</color>
+    <color name="darkGreen">#388E3C</color>
+    <color name="lightGreen">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="darkOrange">#e78e0a</color>
+    <color name="deepOrange">#FF5722</color>
+    <color name="darkDeepOrange">#f14711</color>
+    <color name="brown">#795548</color>
+    <color name="darkBrown">#664133</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="darkGrey">#616161</color>
+    <color name="blueGrey">#607D8B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+
+    <color name="material_backgroud">#FAFAFA</color>
+
+    <color name="color_red">#f44336</color>
+    <color name="color_pink">#e91e63</color>
+    <color name="color_purple">#9c27b0</color>
+    <color name="color_deep_purple">#673ab7</color>
+    <color name="color_indigo">#3f51b5</color>
+    <color name="color_blue">#2196f3</color>
+    <color name="color_light_blue">#03a9f4</color>
+    <color name="color_cyan">#00bcd4</color>
+    <color name="color_teal">#009688</color>
+    <color name="color_green">#4caf50</color>
+    <color name="color_light_green">#8bc34a</color>
+    <color name="color_lime">#cddc39</color>
+    <color name="color_yellow">#ffeb3b</color>
+    <color name="color_amber">#ffc107</color>
+    <color name="color_orange">#ff9800</color>
+    <color name="color_deep_orange">#ff5722</color>
+    <color name="color_brown">#795548</color>
+    <color name="color_grey">#9e9e9e</color>
+    <color name="color_blue_grey">#607d8b</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#212121</color>
+
+    <color name="black_bg">#1B1B1B</color>
+
+    <array name="rainbow">
+        <item>@color/color_red</item>
+        <item>@color/color_pink</item>
+        <item>@color/color_purple</item>
+        <item>@color/color_deep_purple</item>
+        <item>@color/color_indigo</item>
+        <item>@color/color_blue</item>
+        <item>@color/color_light_blue</item>
+        <item>@color/color_cyan</item>
+        <item>@color/color_teal</item>
+        <item>@color/color_green</item>
+        <item>@color/color_light_green</item>
+        <item>@color/color_lime</item>
+        <item>@color/color_yellow</item>
+        <item>@color/color_amber</item>
+        <item>@color/color_orange</item>
+        <item>@color/color_deep_orange</item>
+        <item>@color/color_brown</item>
+        <item>@color/color_grey</item>
+        <item>@color/color_blue_grey</item>
+        <item>@color/color_white</item>
+        <item>@color/color_black</item>
+    </array>
+
+    <color name="toolbar">#EEFFFFFF</color>
+
+    <color name="text_p">#202020</color>
+    <color name="text_s">#656565</color>
+
+    <color name="bg">#F7F7F7</color>
+
+</resources>
